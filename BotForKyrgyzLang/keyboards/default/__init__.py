@@ -1,0 +1,3 @@
+from .keyboard_menu import kb_menu_for_all
+from ..inline.register_keyboards import cancel_reg, course_of_1, course_of_2, course_of_3
+from ..inline.Change_PROFILE_kbs import cancel_profil_change, change_profile_kb_student, ikb_change_profile_student, change_profile_kb, ikb_change_profile_teacher, change_profile_kb_student_chosen, ikb_change_profile_kb_student_chosen, change_profile_kb_teacher_chosen, ikb_change_profile_kb_teacher_chosen

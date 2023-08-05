@@ -1,0 +1,3 @@
+aoigram
+dotenv 
+openai
